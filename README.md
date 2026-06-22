@@ -103,6 +103,6 @@ pyinstaller --name Connect6_Game --add-data "font/simhei.ttf:font" --add-data "s
 
 ## AI声明
 
-本项目所有代码由 AI 辅助编程工具（deepseek v4 pro 接入 VScode Cline）辅助生成。AI 引擎核心代码与评价函数核心代码已经过人工审阅和调试，作者可以确保其正确性；其他部分代码经过多轮运行测试和试玩，均能稳定实现预期功能。
+本项目所有代码由 AI 辅助编程工具（deepseek v4 pro 接入 VScode Cline）辅助生成。AI 引擎核心代码与评价函数核心代码已经过作者人工审阅和调试，并作出必要修改和补充，作者可以确保其正确性；其他部分代码经过多轮运行测试和试玩，均能稳定实现预期功能。
 
 项目架构、AI 对弈逻辑、不同模式的评价函数，均由作者本人人工设计。
