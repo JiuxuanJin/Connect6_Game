@@ -98,7 +98,7 @@ pip install pyinstaller
 cd Connect6
 pyinstaller --name Connect6_Game --add-data "font/simhei.ttf:font" --add-data "src:src" --hidden-import src.ai --hidden-import src.evaluate --noconsole --onefile main.py
 ```
-生成的 exe 位于 `dist/` 目录下。
+完成打包后的 .exe 文件在对应系统下无需任何环境，可以直接运行。
 
 
 ## AI声明
