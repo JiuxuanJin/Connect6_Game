@@ -66,6 +66,7 @@ Connect6/
 ├── Connect6_Game.spec   # PyInstaller 打包配置文件（用于生成 exe）
 ├── Connect6_Game.exe    # 独立可执行文件（已打包，可直接运行）
 ├── README.md            # 项目说明
+├── LICENSE              # 开源协议
 └── .gitignore           # Git 忽略规则
 ```
 
