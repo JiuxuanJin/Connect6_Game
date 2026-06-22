@@ -1,0 +1,2 @@
+# Connect6_Game
+一个基于minimax实现人机对战的六子棋小游戏
